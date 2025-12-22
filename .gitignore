@@ -1,1 +1,29 @@
-Maven_Projects/
+# Maven target folder
+target/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+*.class
+
+# Eclipse specific files
+.project
+.settings/
+.classpath
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
